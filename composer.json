@@ -1,0 +1,13 @@
+{
+    "name": "identity-labs/serializer",
+    "description": "Serializer abstraction",
+    "type": "library",
+    "keywords": [
+        "php", "abstract serializer", "serializer"
+    ],
+    "autoload": {
+        "psr-0": {
+            "Serializer": "src/"
+        }
+    }
+}
